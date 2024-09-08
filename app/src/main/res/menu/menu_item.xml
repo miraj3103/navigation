@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/evaly"
+        android:title="Evaly"
+        android:icon="@drawable/cart"
+        />
+
+    <item
+        android:id="@+id/bitCoin"
+        android:title="Dhaka Stock Exchange"
+        android:icon="@drawable/coin"
+        />
+
+    <item
+        android:id="@+id/privacy"
+        android:title="Privacy Policy"
+        android:icon="@drawable/privacy"
+        />
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/setting"
+        />
+</menu>
